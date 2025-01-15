@@ -4,7 +4,6 @@
 **Kkang0328/Kkang0328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-[![텍스트](https://img.shields.io/badge/텍스트-색상코드?style=for-the-badge&logo=아이콘&logoColor=로고색)](https://github.com/사용자명/저장소명)
 
 ## 기술 스택
 
